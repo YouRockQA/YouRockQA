@@ -53,11 +53,11 @@
 
 ## 🛠️ Professional Experience
 
-### QA Engineer – **Job Autopilot** (01/2023 – Present)
+### Automation QA Engineer – **Job Autopilot** (01/2023 – Present)
 - Developed comprehensive test plans and executed test cases, ensuring platform compatibility across browsers and systems.
 - Achieved **96% test coverage**, identified and resolved **60+ bugs**, enhancing system stability and user experience.
 
-### Manual QA Engineer – **R-Style Softlab** (03/2021 – 09/2022)
+### QA Engineer – **R-Style Softlab** (03/2021 – 09/2022)
 - Identified **250+ bugs** through regression, functional, smoke, and user testing, enhancing system reliability.
 - Mentored 2 junior QA engineers, ensuring their successful onboarding.
 
